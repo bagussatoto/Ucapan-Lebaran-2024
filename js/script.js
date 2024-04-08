@@ -1,7 +1,7 @@
 $(document).ready(function () {
    $(".enter").click(function () {
       unlock($(".enter"));
-      const audio = new Audio("takbiran.mp3");
+      const audio = new Audio("./suara/takbiran.mp3");
       audio.play();
    });
 });
