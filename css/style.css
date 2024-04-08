@@ -156,7 +156,7 @@ body {
       display: inline-block;
       width: calc(50% - 2.5px);
       height: 100%;
-      background-image: url(./assest/gambar/pintumobile.png);
+      background-image: url('/assest/gambar/pintumobile.png');
       background-repeat: no-repeat;
       background-size: cover;
       background-position: center;
